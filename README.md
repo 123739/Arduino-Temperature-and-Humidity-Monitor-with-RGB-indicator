@@ -148,12 +148,10 @@ else {
   ```
 * RGB LED changes color based on temperature range
 
----
-
 ## Author
 
 Anwesha Rath
-Electronics & IoT Enthusiast
+
 ---
 
-If you want, I can tighten this further into a **high-impact recruiter-style README** or add sections like architecture, flowcharts, or GitHub badges
+## Author
