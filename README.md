@@ -151,7 +151,3 @@ else {
 ## Author
 
 Anwesha Rath
-
----
-
-## Author
