@@ -21,7 +21,7 @@ This project uses an **Arduino Uno**, **DHT11 sensor**, and a **16x2 I2C LCD dis
 ## Components Required
 
 * Arduino Uno
-* DHT11 Temperature & Humidity Sensor
+* DHT22 Temperature & Humidity Sensor
 * 16x2 LCD Display with I2C module
 * RGB LED
 * 3 × 220Ω resistors (for RGB LED)
